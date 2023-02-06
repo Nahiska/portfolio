@@ -195,6 +195,7 @@ p {
 }
 div.ul__about ul {
     padding: 20px;
+    max-width: 712px;
 }
 
 div.download__cv {
